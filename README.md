@@ -12,6 +12,9 @@ Curve Fitting Toolbox
 
 Symbolic Math Toolbox
 
+## COMSOL Model
+The benchmark COMSOL model can be checked from [the previous work](https://github.com/Kecheng-Chen/1d-hlm).
+
 ## Getting Started
 * Download KNN models and place them in ``model/``.
 * Download benchmark data and place them in ``validation_data/``.
@@ -24,4 +27,3 @@ Symbolic Math Toolbox
 
 ## Acknowledgments
 * This repository and code have been developed and maintained by [Kecheng Chen](https://geomechanics.berkeley.edu/people/kecheng-chen/).
-* The benchmark COMSOL model can be checked from [the previous work](https://github.com/Kecheng-Chen/1d-hlm).
