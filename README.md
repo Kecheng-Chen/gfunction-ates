@@ -17,3 +17,4 @@ Symbolic Math Toolbox
 * Download benchmark data and place them in ``validation_data/``.
 * type ``matlab`` in Anaconda console.
 * Open ``main.m``, change case study id, and run.
+* Results will be saved in ``results/``.
