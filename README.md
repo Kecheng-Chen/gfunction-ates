@@ -20,7 +20,7 @@ Symbolic Math Toolbox
 * Results will be saved in ``results/``.
 
 ## To Do
-* Build the software as a fully Python package
+* Build the software as a fully Python package.
 
 ## Acknowledgments
 * This repository and code have been developed and maintained by [Kecheng Chen](https://geomechanics.berkeley.edu/people/kecheng-chen/).
