@@ -18,3 +18,6 @@ Symbolic Math Toolbox
 * type ``matlab`` in Anaconda console.
 * Open ``main.m``, change case study id, and run.
 * Results will be saved in ``results/``.
+
+## To Do
+* Build the software as a fully Python package
