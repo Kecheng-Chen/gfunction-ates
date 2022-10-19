@@ -21,3 +21,6 @@ Symbolic Math Toolbox
 
 ## To Do
 * Build the software as a fully Python package
+
+## Acknowledgments
+* This repository and code have been developed and maintained by Kecheng Chen.
