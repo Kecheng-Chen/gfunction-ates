@@ -23,4 +23,4 @@ Symbolic Math Toolbox
 * Build the software as a fully Python package
 
 ## Acknowledgments
-* This repository and code have been developed and maintained by Kecheng Chen.
+* This repository and code have been developed and maintained by [Kecheng Chen] (https://geomechanics.berkeley.edu/people/kecheng-chen/).
