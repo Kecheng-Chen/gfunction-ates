@@ -24,3 +24,4 @@ Symbolic Math Toolbox
 
 ## Acknowledgments
 * This repository and code have been developed and maintained by [Kecheng Chen](https://geomechanics.berkeley.edu/people/kecheng-chen/).
+* The benchmark COMSOL model can be checked from [1D heat loss model](https://github.com/Kecheng-Chen/1d-hlm)
