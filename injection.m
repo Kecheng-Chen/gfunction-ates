@@ -1,5 +1,5 @@
 function injection(alpha_t,alpha_Q,Q,lambda,rhoc,H,name_org)
-    value=[alpha_t,alpha_Q,Q/2,lambda,rhoc,H/2];
+    value=[alpha_t./(alpha_t+1),alpha_Q,Q/2,lambda,rhoc,H/2];
     bool=pyrunfile("sol.py","c",X=[value(1),value(2),value(3),value(4),value(5),value(6),1]);
     if bool==0
         [h1,h2]=injection_advection(value,name_org);

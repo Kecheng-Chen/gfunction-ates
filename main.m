@@ -16,10 +16,12 @@ case_index=1;
 
 % generate the comparison results
 % saved in folder 'results/'
-if alpha_t*alpha_Q>(1-alpha_t)*1
+if alpha_t*alpha_Q>1*1
     % injection-dominated analytical scheme
+    disp('Injection-dominated');
     injection(alpha_t,alpha_Q,Q,lambda,rhoc,H,name_org);
 else
     % extraction-dominated analytical scheme
+    disp('Extraction-doinated');
     extraction(alpha_t,alpha_Q,Q,lambda,rhoc,H,name_org);
 end
