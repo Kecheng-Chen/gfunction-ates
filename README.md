@@ -27,3 +27,9 @@ The benchmark COMSOL model can be checked from [the previous work](https://githu
 
 ## Acknowledgments
 * This repository and code have been developed and maintained by [Kecheng Chen](https://geomechanics.berkeley.edu/people/kecheng-chen/).
+
+## References
+<a id="1">[1]</a> 
+Chen, K., Sun, X., Soga, K., Nico, P. S., and Dobson, P. F. (2024). 
+Machine-learning-assisted long-term G functions for bidirectional aquifer thermal energy storage system operation. 
+Energy, 301, 131638.
